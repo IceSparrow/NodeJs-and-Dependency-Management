@@ -7,4 +7,4 @@ const car = {
 
 car.color = 'green'
 
-console.log(car)
+car.enginePower()
